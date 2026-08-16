@@ -1,0 +1,22 @@
+{
+  "name": "com.wendellleao.screenservice",
+  "version": "1.0.0",
+  "displayName": "Screen Service",
+  "description": "Scene-based UI screen navigation service for Unity projects.",
+  "unity": "6000.3",
+  "license": "MIT",
+  "author": {
+    "name": "Wendell Leão",
+    "email": "leaowendell@outlook.com",
+    "url": "https://github.com/WendellLeao"
+  },
+  "keywords": [
+    "ui",
+    "screens",
+    "navigation"
+  ],
+  "dependencies": {
+    "com.wendellleao.servicelocator": "https://github.com/WendellLeao/service-locator.git",
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+  }
+}
